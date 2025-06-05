@@ -2,8 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer. I'm from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusahan404&label=Profile%20views&color=0e75b6&style=flat" alt="madhusahan404" /> </p>
-
-
+<hr/>
 
 - 🌱 I’m currently learning **nextJS,ExpressJS, MariaDB**
 
@@ -15,6 +14,9 @@
 <a href="https://www.hackerrank.com/@buddhikamadhush2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@buddhikamadhush2" height="30" width="40" /></a>
 </p>
 
+
+
+<hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
